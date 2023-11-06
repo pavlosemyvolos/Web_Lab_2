@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(143, 143, 255);
+}
+
+a{
+    color: yellow;
+}
+
+span{
+    font-weight: italic;
+}
+
+.p_green_semibold{
+    color: darkgreen;
+    font-weight: 700;
+}
+
+.p_italic{
+    font-style: italic;
+}
+
+.p_green{
+    color: green;
+}
+
+.img_left{
+    float: left;
+}
+
+.img_right{
+    float: right;
+}

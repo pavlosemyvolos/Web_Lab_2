@@ -1,0 +1,12 @@
+body{
+    background-color: darkgreen;
+    color: maroon;
+}
+
+a{
+    color: yellow;
+}
+
+h1,h2,h3{
+    text-align: center;
+}
